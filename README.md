@@ -2,7 +2,7 @@ GAP_FileSystemAPI
 =================
 
 An API to use Cordova's File-Plugin with native Dart Code
-```
+``` Dart
 import 'dart:html';
 import 'lib/src/gap_fs.dart' as fsApi;
 
