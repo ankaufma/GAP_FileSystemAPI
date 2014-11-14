@@ -28,5 +28,5 @@ void main() {
                 querySelector("#sample_text_id2").text = myContent;
                 fsApi.GapFileSystemAPI.removeFileIn("", DOC); // "" is Root
   })));
-
+  
 }

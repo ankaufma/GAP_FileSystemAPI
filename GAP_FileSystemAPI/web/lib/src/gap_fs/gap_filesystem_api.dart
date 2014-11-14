@@ -7,7 +7,7 @@ class GapFileSystemAPI {
   static final _PERSISTENT = context['PERSISTENT'];
   static final _ROOT = "";
   
-  GapFileSystemAPI._() {}
+  _GapFileSystemAPI() {}
   
   static Future<bool> createDirectory(String _dirName) {
     Completer cmpl = new Completer();

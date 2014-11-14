@@ -1,5 +1,0 @@
-name: GAP_FileSystemAPI
-description: An API to use the PhoneGap FileSystem API
-dependencies:
-  rikulo_gap: any
-  browser: any
